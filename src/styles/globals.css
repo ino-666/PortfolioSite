@@ -1,0 +1,32 @@
+/* 全体のマージンとパディングを0に設定 */
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 40px; /* フォントサイズを調整 */
+  color: #333; /* テキストの色を設定 */
+  text-align: center; /* テキストを中央に配置 */
+  margin: 20px 0; /* 上下のマージンを追加 */
+  text-transform: capitalize; /* テキストを大文字の最初の文字だけ大文字にする（オプション） */
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: white;
+  }
+  body {
+    color: black;
+  }
+}
