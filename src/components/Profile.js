@@ -13,7 +13,7 @@ export default function Profile() {
         height={100}
       />
       <h2>自己紹介</h2>
-      <p>井上拓未　22歳</p>
+      <p>ino　22歳</p>
       <Link href="https://github.com/Takumi-666">GitHub</Link>
     </div>
   );
