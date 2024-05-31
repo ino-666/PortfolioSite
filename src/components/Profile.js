@@ -14,7 +14,7 @@ export default function Profile() {
       />
       <h2>自己紹介</h2>
       <p>ino　22歳</p>
-      <Link href="https://github.com/Takumi-666">GitHub</Link>
+      <Link href="https://github.com/ino-666">GitHub</Link>
     </div>
   );
 }
