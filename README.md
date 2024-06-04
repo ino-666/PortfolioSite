@@ -1,6 +1,6 @@
 # PortfolioBlogSite
 
-Next.js と microCMS を用いたブログサイト(記事の中身はまだちょっと読みずらいかもです。)
+Next.js と microCMS を用いたブログサイト(記事の中身はまだちょっと読みずらいです。)
 
 ## 機能
 
